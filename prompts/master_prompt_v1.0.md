@@ -71,4 +71,5 @@ Die Perspektiven trennt, sodass Sie direkt vergleichende Messungen zwischen Füh
 Praktisch einsetzbar ist, da durch die Variablen [Branche] (z. B. Gesundheitswesen, Fertigung) und [KI-Anwendung] (z. B. Generative KI / LLMs, Bilderkennung) der Fragebogen sofort an Ihr konkretes Forschungsumfeld angepasst werden kann.
 Möchten Sie, dass wir diesen Master-Prompt anhand eines konkreten Szenarios (z. B. Einsatz von LLMs im Gesundheitswesen) testweise ausführen, um das Ergebnis gemeinsam zu evaluieren?
 
+*ERGÄNZUNG*
 Ich habe noch eine Ergänzung. Behalte das Ausgabeformat bei inklusive aller genannten Spalten. ergänze aber zudem eine weitere Tabelle, nur mit Item-ID, Item-Formulierung und Antwortskala.Bitte getrennt nach Zielgruppe. Diese weitere Tabelle soll den fertigen Fragebogen für die Probanden darstellen. Wenn keine Rückfragen mehr bestehen, führe den Prompt testweise für die Versicherungsbranche aus.
