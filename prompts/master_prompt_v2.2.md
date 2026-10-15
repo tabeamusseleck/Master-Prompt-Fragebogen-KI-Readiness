@@ -77,4 +77,3 @@ Spalten der Tabelle 2 (sowohl für Abschnitt A als auch B):
 
 Erstelle nun den vollständigen Fragebogen nach diesen Vorgaben.
 PROMPT-ENDE
-Möchten Sie diesen erweiterten Master-Prompt im nächsten Schritt direkt an einer weiteren Branche testen oder eine konkrete Umfragesoftware-Struktur evaluieren?
