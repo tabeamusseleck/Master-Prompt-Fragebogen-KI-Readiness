@@ -1,0 +1,62 @@
+# Testweise Fragebogen-Generierung: Automobilbranche / Fertigung
+
+## Tabelle 1: Analytische Gesamtübersicht (Wissenschaftliches Konstrukt-Mapping)
+
+Diese Übersicht dient der wissenschaftlichen Dokumentation der Konstruktreinheit und der Zuordnung der Items zu den theoretischen Grundlagen im Rahmen des Design Science Research (DSR).
+
+| Zielgruppe | Theorie & Konstrukt | Item-ID | Item-Formulierung (Automobilbranche) | Antwortskala | Inhaltliche Begründung / DSR-Kontext |
+|---|---|---|---|---|---|
+| **Management** | **RAA** – Attitude | M-RAA-01 | Ich beurteile den strategischen Einsatz von KI-Systemen in den Fertigungs- und Logistikprozessen unseres Automobilunternehmens als vorteilhaft für unsere Wettbewerbsfähigkeit. | 7-stufige Likert-Skala (1–7) | Erfasst die individuelle kognitive Nutzenerwartung der Führungskraft bezüglich der KI-Einführung im Werk. |
+| **Management** | **RAA** – Perceived Behavioral Control | M-RAA-02 | Ich bin davon überzeugt, dass ich als Führungskraft die Entscheidungsfreiheit und Kompetenz besitze, die Einführung von KI-Technologien im Produktionsbereich effektiv zu steuern. | 7-stufige Likert-Skala (1–7) | Operationalisiert die wahrgenommene strategische Eigenkontrolle und Selbstwirksamkeit der Leitungsebene. |
+| **Management** | **BTF** – Uncertainty Avoidance | M-BTF-01 | Aus Sorge vor ungeplanten Produktionsstillständen und Sicherheitsrisiken zögert unser Unternehmen, KI-Systeme direkt in die Fertigungslinien zu integrieren. | 7-stufige Likert-Skala (1–7) | Erfasst das risikoaverse Verhalten und das Vermeiden unkalkulierbarer Betriebsrisiken auf Unternehmensebene. |
+| **Management** | **BTF** – Sufficing & PoC-Barrieren | M-BTF-02 | In unserem Automobilunternehmen verharren KI-Projekte häufig im Stadium einzelner Pilotanwendungen auf dem Shopfloor, anstatt werksübergreifend skaliert zu werden. | 7-stufige Likert-Skala (1–7) | Misst das organisatorische Feststecken in bloß "ausreichenden" Insel-Lösungen statt systemischer Transformation. |
+| **Management** | **BTF** – Quasi-Resolution of Conflict | M-BTF-03 | Zwischen der zentralen IT/Digitalisierung und der operativen Werksleitung bestehen Zielkonflikte bezüglich der Priorisierung von KI-Projekten in der Produktion. | 7-stufige Likert-Skala (1–7) | Operationalisiert verdeckte Zielkonflikte und Prioritätenkämpfe zwischen internen Stakeholder-Koalitionen. |
+| **Management** | **DCV** – Sensing | M-DCV-01 | Unser Unternehmen identifiziert systematisch neue Potenziale von KI-Anwendungen für die vorausschauende Instandhaltung (Predictive Maintenance) und Qualitätskontrolle. | 7-stufige Likert-Skala (1–7) | Misst die kollektive organisatorische Fähigkeit zur Früherkennung relevanter Fertigungstechnologien. |
+| **Management** | **DCV** – Seizing | M-DCV-02 | Im Management existiert eine klare strategische Roadmap zur Bereitstellung von Budgets, Infrastruktur und Ressourcen für KI-Initiativen in unseren Werken. | 7-stufige Likert-Skala (1–7) | Erfasst die gezielte Mobilisierung organisatorischer Strukturen, Governance und Investitionsmittel. |
+| **Management** | **DCV** – Transforming | M-DCV-03 | Unsere Produktionsdatenarchitekturen und Maschinenvernetzungen lassen sich flexibel an die Anforderungen moderner KI-Systeme anpassen. | 7-stufige Likert-Skala (1–7) | Operationalisiert die kontinuierliche Neuausrichtung technischer Kernressourcen und der Shopfloor-Infrastruktur. |
+| **Operative Mitarbeiter** | **RAA** – Attitude | E-RAA-01 | Den Einsatz von KI-Anwendungen (z. B. zur automatisierten Bildverarbeitung in der Qualitätsprüfung) bei meiner täglichen Arbeit in der Fertigung beurteile ich als vorteilhaft. | 7-stufige Likert-Skala (1–7) | Erfasst die persönliche Bewertung des Werkers/Anwenders bezüglich des Nutzens der Technologie am Arbeitsplatz. |
+| **Operative Mitarbeiter** | **RAA** – Perceived Norms | E-RAA-02 | Kolleginnen und Kollegen in meiner Schicht bzw. Abteilung befürworten die Nutzung von KI-gestützten Assistenzsystemen am Arbeitsplatz. | 7-stufige Likert-Skala (1–7) | Misst den empfundenen sozialen Einfluss und die wahrgenommene Einstellung des unmittelbaren Schicht-Umfelds. |
+| **Operative Mitarbeiter** | **RAA** – Perceived Behavioral Control | E-RAA-03 | Ich bin davon überzeugt, dass ich über die notwendigen Fähigkeiten verfüge, um KI-gestützte Systeme an den Anlagen kompetent zu bedienen. | 7-stufige Likert-Skala (1–7) | Operationalisiert die persönliche Anwenderkompetenz und das Gefühl eigener Verhaltenskontrolle auf dem Shopfloor. |
+| **Operative Mitarbeiter** | **BTF** – Routinen & Barrieren | E-BTF-01 | Die Einführung von KI-Systemen kollidiert mit unseren etablierten, gewohnten Arbeitsabläufen in der Montage und Taktrate. | 7-stufige Likert-Skala (1–7) | Misst die organisatorische Reibung beim Durchbrechen verkrusteter Produktionsroutinen und Takterfordernisse. |
+| **Operative Mitarbeiter** | **BTF** – Uncertainty Avoidance | E-BTF-02 | In unserer Abteilung herrscht die Befürchtung, dass durch den Einsatz von KI automatisierte Fehlentscheidungen getroffen werden, für die Mitarbeiter haftbar gemacht werden. | 7-stufige Likert-Skala (1–7) | Erfasst organisatorische Bedenken, Haftungsängste und Vorsichtsmuster auf Teamebene bei technologischer Automatisierung. |
+| **Operative Mitarbeiter** | **DCV** – Humankapital / Orchestrierung | E-DCV-01 | Unser Unternehmen bietet mir gezielte Qualifizierungs- und Schulungsangebote, um meine Fähigkeiten im Umgang mit KI-gestützten Produktionssystemen auszubauen. | 7-stufige Likert-Skala (1–7) | Operationalisiert die Bereitstellung organisatorischer Befähigungsressourcen und kontinuierlicher Weiterbildung. |
+| **Operative Mitarbeiter** | **DCV** – Operatives Sensing | E-DCV-02 | An unserem Produktionsstandort gibt es strukturierte Wege, um als Werker eigene Verbesserungsvorschläge für den Einsatz von KI einzubringen. | 7-stufige Likert-Skala (1–7) | Erfasst die organisatorische Fähigkeit, dezentrales Erfahrungswissen und operative Optimierungsideen aufzunehmen. |
+
+---
+
+## Tabelle 2: Fertiger Probanden-Fragebogen (Erhebungsinstrument)
+
+### Abschnitt A: Management / Führungskräfte
+
+Bitte beurteilen Sie die folgenden Aussagen bezüglich der strategischen und organisatorischen Rahmenbedingungen in Ihrem Automobilunternehmen.
+
+| Item-ID | Item-Formulierung | Antwortskala |
+|---|---|---|
+| M-RAA-01 | Ich beurteile den strategischen Einsatz von KI-Systemen in den Fertigungs- und Logistikprozessen unseres Automobilunternehmens als vorteilhaft für unsere Wettbewerbsfähigkeit. | 1 = Trifft überhaupt nicht zu<br>2 = Trifft weitgehend nicht zu<br>3 = Trifft eher nicht zu<br>4 = Neutral / Unentschieden<br>5 = Trifft eher zu<br>6 = Trifft weitgehend zu<br>7 = Trifft voll und ganz zu |
+| M-RAA-02 | Ich bin davon überzeugt, dass ich als Führungskraft die Entscheidungsfreiheit und Kompetenz besitze, die Einführung von KI-Technologien im Produktionsbereich effektiv zu steuern. | 1 = Trifft überhaupt nicht zu<br>2 = Trifft weitgehend nicht zu<br>3 = Trifft eher nicht zu<br>4 = Neutral / Unentschieden<br>5 = Trifft eher zu<br>6 = Trifft weitgehend zu<br>7 = Trifft voll und ganz zu |
+| M-BTF-01 | Aus Sorge vor ungeplanten Produktionsstillständen und Sicherheitsrisiken zögert unser Unternehmen, KI-Systeme direkt in die Fertigungslinien zu integrieren. | 1 = Trifft überhaupt nicht zu<br>2 = Trifft weitgehend nicht zu<br>3 = Trifft eher nicht zu<br>4 = Neutral / Unentschieden<br>5 = Trifft eher zu<br>6 = Trifft weitgehend zu<br>7 = Trifft voll und ganz zu |
+| M-BTF-02 | In unserem Automobilunternehmen verharren KI-Projekte häufig im Stadium einzelner Pilotanwendungen auf dem Shopfloor, anstatt werksübergreifend skaliert zu werden. | 1 = Trifft überhaupt nicht zu<br>2 = Trifft weitgehend nicht zu<br>3 = Trifft eher nicht zu<br>4 = Neutral / Unentschieden<br>5 = Trifft eher zu<br>6 = Trifft weitgehend zu<br>7 = Trifft voll und ganz zu |
+| M-BTF-03 | Zwischen der zentralen IT/Digitalisierung und der operativen Werksleitung bestehen Zielkonflikte bezüglich der Priorisierung von KI-Projekten in der Produktion. | 1 = Trifft überhaupt nicht zu<br>2 = Trifft weitgehend nicht zu<br>3 = Trifft eher nicht zu<br>4 = Neutral / Unentschieden<br>5 = Trifft eher zu<br>6 = Trifft weitgehend zu<br>7 = Trifft voll und ganz zu |
+| M-DCV-01 | Unser Unternehmen identifiziert systematisch neue Potenziale von KI-Anwendungen für die vorausschauende Instandhaltung (Predictive Maintenance) und Qualitätskontrolle. | 1 = Trifft überhaupt nicht zu<br>2 = Trifft weitgehend nicht zu<br>3 = Trifft eher nicht zu<br>4 = Neutral / Unentschieden<br>5 = Trifft eher zu<br>6 = Trifft weitgehend zu<br>7 = Trifft voll und ganz zu |
+| M-DCV-02 | Im Management existiert eine klare strategische Roadmap zur Bereitstellung von Budgets, Infrastruktur und Ressourcen für KI-Initiativen in unseren Werken. | 1 = Trifft überhaupt nicht zu<br>2 = Trifft weitgehend nicht zu<br>3 = Trifft eher nicht zu<br>4 = Neutral / Unentschieden<br>5 = Trifft eher zu<br>6 = Trifft weitgehend zu<br>7 = Trifft voll und ganz zu |
+| M-DCV-03 | Unsere Produktionsdatenarchitekturen und Maschinenvernetzungen lassen sich flexibel an die Anforderungen moderner KI-Systeme anpassen. | 1 = Trifft überhaupt nicht zu<br>2 = Trifft weitgehend nicht zu<br>3 = Trifft eher nicht zu<br>4 = Neutral / Unentschieden<br>5 = Trifft eher zu<br>6 = Trifft weitgehend zu<br>7 = Trifft voll und ganz zu |
+
+---
+
+### Abschnitt B: Operative Mitarbeiter / Anwender
+
+Bitte beurteilen Sie die folgenden Aussagen bezüglich Ihrer persönlichen Arbeit und der Situation an Ihrem Arbeitsplatz in der Produktion / Montage.
+
+| Item-ID | Item-Formulierung | Antwortskala |
+|---|---|---|
+| E-RAA-01 | Den Einsatz von KI-Anwendungen (z. B. zur automatisierten Bildverarbeitung in der Qualitätsprüfung) bei meiner täglichen Arbeit in der Fertigung beurteile ich als vorteilhaft. | 1 = Trifft überhaupt nicht zu<br>2 = Trifft weitgehend nicht zu<br>3 = Trifft eher nicht zu<br>4 = Neutral / Unentschieden<br>5 = Trifft eher zu<br>6 = Trifft weitgehend zu<br>7 = Trifft voll und ganz zu |
+| E-RAA-02 | Kolleginnen und Kollegen in meiner Schicht bzw. Abteilung befürworten die Nutzung von KI-gestützten Assistenzsystemen am Arbeitsplatz. | 1 = Trifft überhaupt nicht zu<br>2 = Trifft weitgehend nicht zu<br>3 = Trifft eher nicht zu<br>4 = Neutral / Unentschieden<br>5 = Trifft eher zu<br>6 = Trifft weitgehend zu<br>7 = Trifft voll und ganz zu |
+| E-RAA-03 | Ich bin davon überzeugt, dass ich über die notwendigen Fähigkeiten verfüge, um KI-gestützte Systeme an den Anlagen kompetent zu bedienen. | 1 = Trifft überhaupt nicht zu<br>2 = Trifft weitgehend nicht zu<br>3 = Trifft eher nicht zu<br>4 = Neutral / Unentschieden<br>5 = Trifft eher zu<br>6 = Trifft weitgehend zu<br>7 = Trifft voll und ganz zu |
+| E-BTF-01 | Die Einführung von KI-Systemen kollidiert mit unseren etablierten, gewohnten Arbeitsabläufen in der Montage und Taktrate. | 1 = Trifft überhaupt nicht zu<br>2 = Trifft weitgehend nicht zu<br>3 = Trifft eher nicht zu<br>4 = Neutral / Unentschieden<br>5 = Trifft eher zu<br>6 = Trifft weitgehend zu<br>7 = Trifft voll und ganz zu |
+| E-BTF-02 | In unserer Abteilung herrscht die Befürchtung, dass durch den Einsatz von KI automatisierte Fehlentscheidungen getroffen werden, für die Mitarbeiter haftbar gemacht werden. | 1 = Trifft überhaupt nicht zu<br>2 = Trifft weitgehend nicht zu<br>3 = Trifft eher nicht zu<br>4 = Neutral / Unentschieden<br>5 = Trifft eher zu<br>6 = Trifft weitgehend zu<br>7 = Trifft voll und ganz zu |
+| E-DCV-01 | Unser Unternehmen bietet mir gezielte Qualifizierungs- und Schulungsangebote, um meine Fähigkeiten im Umgang mit KI-gestützten Produktionssystemen auszubauen. | 1 = Trifft überhaupt nicht zu<br>2 = Trifft weitgehend nicht zu<br>3 = Trifft eher nicht zu<br>4 = Neutral / Unentschieden<br>5 = Trifft eher zu<br>6 = Trifft weitgehend zu<br>7 = Trifft voll und ganz zu |
+| E-DCV-02 | An unserem Produktionsstandort gibt es strukturierte Wege, um als Werker eigene Verbesserungsvorschläge für den Einsatz von KI einzubringen. | 1 = Trifft überhaupt nicht zu<br>2 = Trifft weitgehend nicht zu<br>3 = Trifft eher nicht zu<br>4 = Neutral / Unentschieden<br>5 = Trifft eher zu<br>6 = Trifft weitgehend zu<br>7 = Trifft voll und ganz zu |
+
+---
+
+⚙️ Möchten Sie den Master-Prompt nun in dieser Form als Ihr finales Artefakt festhalten, oder sollen wir für Ihre wissenschaftliche Dokumentation noch eine kurze Beschreibung der DSR-Methodik und der Artefakt-Eigenschaften ausformulieren?
