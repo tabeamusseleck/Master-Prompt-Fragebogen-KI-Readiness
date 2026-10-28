@@ -20,10 +20,10 @@ Der Master-Prompt übersetzt etablierte verhaltens- und managementwissenschaftli
 
 ---
 
-## 🚀 Anwendung in Google NotebookLM
-1. Ein neues Notebook in Google NotebookLM erstellen
+## 🚀 Anwendung in Gemini Notebook
+1. Ein neues Notebook in Gemini Notebook erstellen
 2. Hochladen der vorgegebenen und weiterer Quellen (Fragebögen, Fachliteratur zu KI-Readiness,...)
-3. Kopieren des Auftrags-Prompts (Meta-Prompt) (aus dem Ordner `/prompts/`) in den Chat von NotebookLM.
-4. Den von NotebookLM erstellten ersten Entwurf des Master-Prompts prüfen und kleine Anpassungen vornehmen
+3. Kopieren des Auftrags-Prompts (Meta-Prompt) (aus dem Ordner `/prompts/`) in den Chat Notebook
+4. Den von Gemini Notebook erstellten ersten Entwurf des Master-Prompts prüfen und kleine Anpassungen vornehmen
 5. Prompt wird ausgeführt, um den ersten strukturierten Fragebogen zu generieren.
 6. Verfeinerung des Prompts mittels iterativen Prozess
