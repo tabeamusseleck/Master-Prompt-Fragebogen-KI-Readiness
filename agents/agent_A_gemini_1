@@ -1,0 +1,42 @@
+| Item-ID | Perspektive | Doppelfrage | Suggestivität | Mehrdeutigkeit | Negation | Kausalverknüpfung | Absolutierung | Urteil | Begründung (1 Satz) |
+|---|---|---|---|---|---|---|---|---|---|
+| Z-01 | Ich | 1 | 0 | 0 | 0 | 0 | 0 | überarbeiten | Das Item verknüpft mit „ob und wie“ zwei eigenständige Sachverhalte (Nutzungsentscheidung und Nutzungsart), die unterschiedlich beantwortet werden können. |
+| Z-02 | Organisation | 0 | 0 | 0 | 0 | 1 | 0 | überarbeiten | Die Formulierung mit „um [...] zu identifizieren“ verbindet das Vorhandensein von Verfahren mit einer Zweckannahme. |
+| Z-03 | Organisation | 0 | 0 | 0 | 0 | 1 | 0 | überarbeiten | Durch die Begründung „wegen regulatorischer Unsicherheiten“ wird das Zögern des Unternehmens kausal an eine Ursache gekoppelt. |
+| Z-04 | Organisation | 0 | 0 | 0 | 0 | 1 | 0 | überarbeiten | Das Item stellt mit der Bedingung „bei Unsicherheiten“ eine Kausalverknüpfung zwischen Unsicherheiten und dem Verzicht her. |
+| Z-05 | Organisation | 0 | 0 | 1 | 0 | 0 | 0 | überarbeiten | Der englische Fachbegriff „Proof-of-Concept-Stadium“ ist für Befragte ohne spezielles IT-Fachwissen schwer verständlich und mehrdeutig. |
+| Z-06 | Ich | 0 | 0 | 0 | 0 | 0 | 0 | unbedenklich | Das Item ist klar formuliert, enthält eine eindeutige Aussage zur eigenen Beurteilungsfähigkeit und weist keine methodischen Mängel auf. |
+| Z-07 | Organisation | 1 | 0 | 0 | 0 | 1 | 0 | kritisch | Das Item verknüpft reaktives Handeln kausal mit dem Auslöser („erst nach...“) und verbindet zwei unterschiedliche Anlässe („Vorgaben oder Vorfälle“) in einer Doppelfrage. |
+| Z-08 | Organisation | 0 | 0 | 0 | 0 | 0 | 0 | unbedenklich | Das Item erfasst einen Zielkonflikt auf Abteilungsebene sachlich und ohne verzerrende Formulierungen. |
+| Z-09 | Organisation | 1 | 0 | 0 | 0 | 0 | 1 | kritisch | Das Item kombiniert zwei getrennte Ressourcen („Budget“ und „Verantwortliche“) in einer Doppelfrage und absolutiert den Zeitraum mit „dauerhaft“. |
+| Z-10 | Gemischt/unklar | 0 | 0 | 0 | 0 | 0 | 0 | unbedenklich | Die Aussage bewertet die persönliche Informationsversorgung im Unternehmen verständlich und ohne methodische Mängel. |
+| Z-11 | Organisation | 0 | 1 | 0 | 0 | 1 | 0 | kritisch | Das Item wirkt durch die Formulierung „bessere Möglichkeiten“ suggestiv zugunsten der KI-Anwendung und enthält eine einschränkende Verknüpfung („auch wenn“). |
+| Z-12 | Ich | 0 | 0 | 0 | 0 | 0 | 0 | unbedenklich | Das Item erfasst eine persönliche Einstellung zur Aufgabenerledigung verständlich und methodisch einwandfrei. |
+| Z-13 | Organisation | 0 | 0 | 0 | 0 | 1 | 1 | überarbeiten | Das Wort „kontinuierlich“ stellt eine zeitlich absolute Anforderung dar und „für die Arbeit“ verknüpft Qualifizierung kausal mit dem Ziel. |
+| Z-14 | Gemischt/unklar | 0 | 0 | 0 | 0 | 0 | 0 | unbedenklich | Das Item erfasst die wahrgenommene Unterstützungserwartung im Führungsumfeld klar und frei von methodischen Mängeln. |
+| Z-15 | Ich | 0 | 0 | 0 | 0 | 1 | 0 | überarbeiten | Die Formulierung mit „um [...] mitzuentscheiden“ verknüpft den Handlungsspielraum kausal mit dem Entscheidungsinhalt. |
+| Z-16 | Gemischt/unklar | 1 | 0 | 0 | 0 | 0 | 0 | überarbeiten | Das Item enthält mit der Oder-Verknüpfung („nutzen [...] bereits oder befürworten“) eine Doppelfrage zweier unterschiedlicher Verhaltensebenen. |
+| Z-17 | Organisation | 1 | 0 | 0 | 1 | 1 | 0 | kritisch | Durch die Begründung mit „weil“ wird das Entscheidungsverhalten zwingend an unvollständige Marktinformationen gekoppelt und mit einer Doppelfrage kombiniert. |
+| Z-18 | Ich | 0 | 0 | 0 | 0 | 0 | 0 | unbedenklich | Das Item erfasst die subjektiv empfundene Bedienkompetenz präzise und ohne verzerrende Elemente. |
+| Z-19 | Gemischt/unklar | 0 | 0 | 0 | 0 | 0 | 0 | unbedenklich | Die Aussage misst die wahrgenommene Nutzungserwartung im Arbeitsumfeld eindeutig und frei von methodischen Schwächen. |
+| Z-20 | Organisation | 0 | 0 | 0 | 0 | 0 | 0 | unbedenklich | Das Item erhebt den Abstimmungskonflikt zwischen Abteilung und IT klar und abgrenzbar. |
+| Z-21 | Ich | 0 | 1 | 0 | 0 | 0 | 0 | überarbeiten | Das Adjektiv „wertvoll“ führt eine positiv bewertende Komponente ein, die eine Antwortrichtung nahelegen kann. |
+| Z-22 | Organisation | 0 | 0 | 0 | 0 | 0 | 0 | unbedenklich | Das Item erfasst die Möglichkeit der Ideeneinbringung über etablierte Kanäle sachlich und verständlich. |
+| Z-23 | Ich | 0 | 0 | 0 | 0 | 1 | 0 | überarbeiten | Die Formulierung mit „um [...] auszuprobieren“ bindet das Vorhandensein von Ressourcen zweckgerichtet an eine Handlungsabsicht. |
+| Z-24 | Organisation | 0 | 0 | 1 | 0 | 0 | 0 | überarbeiten | Der Branchen-Fachbegriff „Insurtechs“ in den Klammerbeispielen stellt eine Mehrdeutigkeit für Befragte ohne Spezialwissen dar. |
+| Z-25 | Gemischt/unklar | 0 | 0 | 0 | 0 | 1 | 0 | überarbeiten | Die Satzkonstruktion mit „um [...] zu erlernen“ verknüpft das Schulungsangebot zweckgerichtet mit einem Lernziel. |
+| Z-26 | Organisation | 0 | 1 | 0 | 1 | 1 | 0 | kritisch | Das Item verknüpft über die Konstruktion „so starr [...], dass“ starr festgelegte Abläufe kausal mit fehlendem Einsatz und nutzt mit „starr“ ein bewertendes Adjektiv. |
+| Z-27 | Organisation | 1 | 0 | 0 | 0 | 1 | 0 | kritisch | Das Item kombiniert IT-Infrastruktur und Datenarchitektur in einer Doppelfrage und verknüpft diese über „so [...], dass“ kausal mit dem Betrieb. |
+| Z-28 | Organisation | 0 | 1 | 0 | 1 | 0 | 0 | überarbeiten | Die Formulierung „begnügen wir uns“ wirkt abwertend-suggestiv und die Konstruktion „statt [...] zu vergleichen“ impliziert eine Verneinung. |
+| Z-29 | Gemischt/unklar | 0 | 0 | 0 | 1 | 1 | 1 | kritisch | Durch das Bindewort „weshalb“ wird die Beibehaltung des Gewohnten kausal auf unvollständige Informationen zurückgeführt und mit Einschränkungen absolutiert. |
+| Z-30 | Organisation | 0 | 0 | 0 | 1 | 0 | 1 | überarbeiten | Die Einschränkung „nur teilweise ausgeglichen“ schränkt eine abgestufte Bewertung ein und setzt eine einschränkende Negation. |
+| Z-31 | Organisation | 1 | 0 | 1 | 0 | 1 | 0 | kritisch | Das Item verbindet „Medienbrüche oder Abstimmungsprobleme“ in einer Doppelfrage, nutzt den Fachbegriff „Medienbrüche“ und verknüpft dies kausal mit einer Erschwerung. |
+| Z-32 | Gemischt/unklar | 1 | 0 | 0 | 0 | 0 | 0 | überarbeiten | Die Verknüpfung mit „oder“ verbindet tatsächliches Verhalten („nutzen“) und hypothetische Bereitschaft („würden nutzen“) zu einer Doppelfrage. |
+| Z-33 | Organisation | 0 | 0 | 0 | 1 | 1 | 1 | kritisch | Die Bedingung „erst [...], wenn“ verknüpft die Einführung kausal mit dem Ausschluss von Risiken und erschwert durch die Bedingung eine abgestufte Beantwortung. |
+| Z-34 | Organisation | 1 | 0 | 0 | 0 | 0 | 0 | überarbeiten | Das Item kombiniert prozessuale „Arbeitsabläufe“ und technische „Systemschnittstellen“ zu zwei eigenständigen Aspekten in einer Doppelfrage. |
+| Z-35 | Organisation | 1 | 0 | 0 | 0 | 0 | 0 | überarbeiten | Mit der Kombination von „Verantwortlichkeiten“ und „Ansprechpersonen“ liegt eine Doppelfrage zweier unterschiedlicher organisatorischer Ebenen vor. |
+| Z-36 | Ich | 0 | 0 | 0 | 0 | 0 | 0 | unbedenklich | Das Item erfasst die persönliche Vorteilerwartung verständlich und frei von methodischen Mängeln. |
+| Z-37 | Ich | 0 | 0 | 0 | 0 | 0 | 0 | unbedenklich | Die Aussage misst den Nutzen für die eigene Führungsarbeit eindeutig und methodisch einwandfrei. |
+| Z-38 | Organisation | 1 | 0 | 1 | 0 | 0 | 0 | kritisch | Das Item verknüpft das Existieren einer „KI-Strategie“ mit „Governance-Regeln“ in einer Doppelfrage und nutzt den unerklärten Fachbegriff „Governance-Regeln“. |
+| Z-39 | Gemischt/unklar | 1 | 0 | 0 | 0 | 0 | 0 | überarbeiten | Die Kopplung von „Systemen“ und „Datenzugängen“ stellt eine Doppelfrage zweier unterschiedlicher technischer Voraussetzungen dar. |
+| Z-40 | Organisation | 0 | 0 | 0 | 0 | 0 | 0 | unbedenklich | Das Item erhebt Zielunterschiede zwischen IT und Fachbereichen sachlich und methodisch einwandfrei. |
