@@ -7,6 +7,7 @@ Dieses Repository enthält das im Rahmen des Moduls Praxisseminar entwickelte Ar
 ## 📂 Struktur des Repositories
 - `/prompts/` -> Enthält die verschiedenen Versionen des Master-Prompts (von v1.0 bis zur finalen Version).
 - `/evaluations/` -> Dokumentation der Testläufe und Evaluationsergebnisse.
+-  `/agents/` -> Agenten zur Evaluation der Testläufe
 - `README.md` -> Projektdokumentation (diese Datei).
 
 ---
