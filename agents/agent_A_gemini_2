@@ -1,0 +1,42 @@
+| Item-ID | Perspektive | Doppelfrage | Suggestivität | Mehrdeutigkeit | Negation | Kausalverknüpfung | Absolutierung | Urteil | Begründung (1 Satz) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Z-01 | Ich | 1 | 0 | 0 | 0 | 0 | 0 | überarbeiten | Die Formulierung „ob und wie“ verknüpft zwei eigenständige Sachverhalte (die Entscheidung über den Einsatz und dessen konkrete Ausgestaltung), die unterschiedlich beantwortet werden können. |
+| Z-02 | Organisation | 0 | 0 | 0 | 0 | 0 | 0 | unbedenklich | Die Aussage zu „etablierte Verfahren“ zur Identifikation von Potenzialen ist eindeutig formuliert und weist keine methodischen Mängel auf. |
+| Z-03 | Organisation | 0 | 0 | 0 | 0 | 1 | 0 | überarbeiten | Durch den Zusatz „wegen regulatorischer Unsicherheiten“ wird dem Zögern des Unternehmens eine Ursache zugeschrieben, die Befragte zusätzlich bewerten müssen. |
+| Z-04 | Organisation | 0 | 0 | 0 | 0 | 0 | 0 | unbedenklich | Das Item beschreibt das Unternehmensverhalten „bei Unsicherheiten“ präzise und frei von methodischen Mängeln. |
+| Z-05 | Organisation | 1 | 1 | 1 | 0 | 0 | 0 | kritisch | Das Item verknüpft das wertende Verb „verharren“ mit dem unerklärten Fachbegriff „Proof-of-Concept-Stadium“ sowie einer Doppelfrage bezüglich zweier Projektphasen. |
+| Z-06 | Ich | 0 | 0 | 0 | 0 | 0 | 0 | unbedenklich | Die Formulierung misst die selbsteingeschätzte Fähigkeit, Ergebnisse „fachlich zu beurteilen“, verständlich und ohne methodische Mängel. |
+| Z-07 | Organisation | 1 | 0 | 0 | 0 | 0 | 0 | überarbeiten | Durch die Präzisierung „erst nach externen Vorgaben oder Vorfällen“ werden zwei unterschiedliche Anlässe reaktiven Handelns verknüpft, die getrennt bewertet werden müssten. |
+| Z-08 | Organisation | 0 | 0 | 0 | 0 | 0 | 0 | unbedenklich | Der abgefragte Zielkonflikt bezüglich der „Ziele meiner Abteilung“ ist präzise und frei von methodischen Schwachstellen formuliert. |
+| Z-09 | Organisation | 1 | 0 | 0 | 0 | 0 | 0 | überarbeiten | Die Verbindung von „Budget und klar benannte Verantwortliche“ stellt eine Doppelfrage dar, da finanzielle und personelle Ressourcen getrennt vorliegen können. |
+| Z-10 | Ich | 0 | 0 | 0 | 0 | 0 | 0 | unbedenklich | Das Item erfasst den persönlichen Informationsfluss über „neue Entwicklungen zu KI“ klar und ohne methodische Mängel. |
+| Z-11 | Organisation | 0 | 1 | 0 | 0 | 0 | 0 | überarbeiten | Die Wendung „auch wenn es bessere Möglichkeiten [...] geben könnte“ enthält eine suggestive Vorannahme zugunsten von KI-Anwendungen. |
+| Z-12 | Ich | 0 | 0 | 0 | 0 | 0 | 0 | unbedenklich | Die verhaltensbezogene Einstellung, Aufgaben „als zufriedenstellend empfinden“ zu erledigen, wird verständlich und ohne Mängel erhoben. |
+| Z-13 | Organisation | 0 | 0 | 0 | 0 | 0 | 0 | unbedenklich | Die betriebliche Qualifizierung durch „Weiterbildungsprogramme für die Arbeit mit [KI-Anwendung]“ wird eindeutig und ohne methodische Schwachstellen erfasst. |
+| Z-14 | Ich | 0 | 0 | 0 | 0 | 0 | 0 | unbedenklich | Die wahrgenommene Verhaltenserwartung aus dem Führungsumfeld, den Einsatz „aktiv unterstütze“, ist frei von methodischen Mängeln formuliert. |
+| Z-15 | Ich | 0 | 0 | 0 | 0 | 0 | 0 | unbedenklich | Das Item erfasst den wahrgenommenen „Handlungsspielraum [...] mitzuentscheiden“ klar und frei von methodischen Schwachstellen. |
+| Z-16 | Gemischt/unklar | 1 | 0 | 0 | 0 | 0 | 0 | überarbeiten | Die Verknüpfung „nutzen [...] bereits oder befürworten deren Nutzung“ stellt eine Doppelfrage dar, da tatsächliche Nutzung und bloße Befürwortung getrennt beantwortet werden können. |
+| Z-17 | Organisation | 1 | 0 | 0 | 0 | 1 | 0 | kritisch | Das Item kombiniert eine Doppelfrage („bekannte Anbieter und bestehende Lösungen“) mit einer kausalen Begründung („weil uns Marktinformationen unvollständig vorliegen“). |
+| Z-18 | Ich | 0 | 0 | 0 | 0 | 0 | 0 | unbedenklich | Die selbsteingeschätzte Fähigkeit, eine Anwendung „sicher zu bedienen“, ist klar und ohne methodische Mängel formuliert. |
+| Z-19 | Ich | 0 | 0 | 0 | 0 | 0 | 0 | unbedenklich | Die wahrgenommene Nutzungserwartung bezüglich „dass ich [KI-Anwendung] [...] nutze“ ist präzise und methodisch einwandfrei. |
+| Z-20 | Organisation | 0 | 0 | 0 | 0 | 0 | 0 | unbedenklich | Das Item misst unterschiedliche Zielvorstellungen „zwischen meiner Abteilung und der IT“ klar und ohne methodische Mängel. |
+| Z-21 | Ich | 0 | 0 | 0 | 0 | 0 | 0 | unbedenklich | Die subjektive Einstellung zum Wert von KI, Entscheidungen „unterstützen zu lassen“, ist eindeutig und frei von Mängeln. |
+| Z-22 | Organisation | 0 | 0 | 0 | 0 | 0 | 0 | unbedenklich | Das Item erfasst die Möglichkeit zur Ideeneinbringung „über etablierte Kanäle“ verständlich und ohne methodische Schwachstellen. |
+| Z-23 | Ich | 1 | 0 | 0 | 0 | 0 | 0 | überarbeiten | Die Konkretisierung durch „Zeit, Systemzugänge“ verknüpft zeitliche und technische Ressourcen, die Befragte getrennt bewerten können. |
+| Z-24 | Organisation | 0 | 0 | 0 | 0 | 0 | 0 | unbedenklich | Die Aussage zur Beobachtung von KI-Entwicklungen „in der [Branche]“ ist klar formuliert und frei von methodischen Mängeln. |
+| Z-25 | Ich | 0 | 0 | 0 | 0 | 0 | 0 | unbedenklich | Das individuelle Angebot von „Schulungen [...], um den Umgang [...] zu erlernen“ wird eindeutig und ohne Mängel gemessen. |
+| Z-26 | Organisation | 0 | 1 | 0 | 0 | 1 | 0 | überarbeiten | Das Item verknüpft mit „so starr festgelegt, dass“ eine bewertende Eigenschaft kausal mit dem fehlenden vorgesehenen Einsatz von KI. |
+| Z-27 | Organisation | 1 | 0 | 0 | 0 | 0 | 0 | überarbeiten | Die Verknüpfung von „IT-Infrastruktur und Datenarchitektur“ stellt eine Doppelfrage dar, da beide technischen Ebenen unabhängig voneinander angepasst sein können. |
+| Z-28 | Organisation | 0 | 1 | 0 | 0 | 0 | 0 | überarbeiten | Die Wendung „begnügen wir uns [...] mit einer ausreichenden Lösung“ enthält eine bewertend-suggestive Formulierung hinsichtlich des Auswahlverhaltens. |
+| Z-29 | Organisation | 0 | 0 | 0 | 0 | 1 | 1 | kritisch | Das Item verknüpft eine Ursache-Wirkungs-Kette („weshalb meist beim Gewohnten geblieben wird“) mit der einschränkenden Absolutierung „nur unvollständige Informationen“. |
+| Z-30 | Organisation | 1 | 0 | 0 | 0 | 0 | 1 | überarbeiten | Die Formulierung verbindet das Bestehen konkurrierender Ziele mit deren Ausgleichsgrad („nur teilweise ausgeglichen“) in einer doppelseitigen Aussage. |
+| Z-31 | Organisation | 1 | 0 | 0 | 0 | 1 | 0 | kritisch | Das Item kombiniert eine Doppelfrage („Medienbrüche oder Abstimmungsprobleme“) mit einer kausalen Erschwerung des KI-Einsatzes. |
+| Z-32 | Organisation | 1 | 0 | 0 | 0 | 0 | 0 | überarbeiten | Das Item verknüpft durch „nutzen [...] oder würden sie nutzen“ das tatsächliche Verhalten mit einer hypothetischen Bereitschaft. |
+| Z-33 | Organisation | 0 | 0 | 0 | 0 | 0 | 1 | überarbeiten | Die Formulierung „erst eingeführt, wenn Risiken weitgehend ausgeschlossen sind“ beinhaltet eine extreme Voraussetzung, die eine differenzierte Antwort erschwert. |
+| Z-34 | Organisation | 1 | 0 | 0 | 0 | 0 | 0 | überarbeiten | Die Aussage verknüpft mit „Arbeitsabläufe [...] und bestehende Systemschnittstellen“ zwei unterschiedliche Hürden (prozessual und technisch). |
+| Z-35 | Organisation | 1 | 0 | 0 | 0 | 0 | 0 | überarbeiten | Das Item stellt eine Doppelfrage dar, indem es funktionale „Verantwortlichkeiten und Ansprechpersonen“ zusammenfasst. |
+| Z-36 | Ich | 0 | 0 | 0 | 0 | 0 | 0 | unbedenklich | Die persönliche Einstellung zur Nützlichkeit, die Nutzung „als vorteilhaft empfinden“, wird klar und frei von methodischen Mängeln erhoben. |
+| Z-37 | Ich | 0 | 0 | 0 | 0 | 0 | 0 | unbedenklich | Der wahrgenommene Vorteil für „meine Führungsarbeit“ ist eindeutig abgegrenzt und frei von methodischen Schwachstellen. |
+| Z-38 | Organisation | 1 | 0 | 0 | 0 | 0 | 0 | überarbeiten | Die Verknüpfung von „verabschiedete KI-Strategie“ und „klaren Governance-Regeln“ stellt eine Doppelfrage dar, da beide Elemente getrennt existieren können. |
+| Z-39 | Ich | 1 | 0 | 0 | 0 | 0 | 0 | überarbeiten | Die Kombination von „Systeme und Datenzugänge“ verknüpft Anwendungssoftware mit der Datenzugriffsebene in einer Doppelfrage. |
+| Z-40 | Organisation | 0 | 0 | 0 | 0 | 0 | 0 | unbedenklich | Die Abfrage unterschiedlicher Zielvorstellungen „zwischen IT und Fachbereichen“ ist frei von methodischen Mängeln formuliert. |
