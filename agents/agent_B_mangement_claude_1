@@ -1,0 +1,21 @@
+| Item-Nr. | Verständlichkeit (1–5) | Eindeutigkeit (1–5) | Beantwortbarkeit (1–5) | Unklare Begriffe oder Stellen | Kommentar (max. 1 Satz) |
+|---|---|---|---|---|---|
+| 1 | 4 | 4 | 4 | „strategischer Einsatz", „vorteilhaft für den Unternehmenserfolg" | Als Abteilungsleitung kann ich das grundsätzlich einschätzen, auch wenn „vorteilhaft" ohne Maßstab bleibt. |
+| 2 | 4 | 3 | 4 | „generative KI-Anwendungen", „Marktpositionierung" | „Generative KI" ist mir nur grob geläufig, und „wichtig" lässt offen, für wen und wie stark. |
+| 3 | 4 | 3 | 5 | „Entscheidungsfreiheit", „in meinem Bereich" | Meine eigene Entscheidungsbefugnis kann ich sicher beurteilen, aber „Entscheidungsfreiheit" kann formal oder faktisch gemeint sein. |
+| 4 | 3 | 3 | 4 | „Steuerungskontrolle", „maßgeblich", „Automatisierung von Prozessabläufen" | „Steuerungskontrolle" ist ein sperriger, ungewohnter Begriff, der sich von „Entscheidungsfreiheit" in Item 3 kaum unterscheidet. |
+| 5 | 3 | 2 | 3 | „regulatorische Unsicherheiten", „zentrale Entscheidungsprozesse", „zögert unsere Versicherung" | Die Aussage bündelt Sorge, Regulierung und Zögern in einem Satz, und ob das Unternehmen „Sorge" hat, kann ich nur vermuten. |
+| 6 | 3 | 2 | 3 | „kurzfristig überschaubare Reaktionen", „weitreichende Transformationsprojekte" | „Überschaubare Reaktionen" ist unklar formuliert, und die Aussage setzt zwei Alternativen gegeneinander, die nicht zwingend zusammengehören. |
+| 7 | 4 | 3 | 4 | „Proofs of Concept", „flächendeckend skaliert", „häufig" | „Häufig" ist dehnbar, und „Proof of Concept" ist in meinem Haus zwar Alltagsvokabular, aber nicht jeder Kollege kennt es. |
+| 8 | 3 | 2 | 3 | „erstbesten, ausreichend funktionierenden Zwischenlösungen", „oft" | Der Satz wirkt wertend, und ich weiß nicht, ob „oft" auf die Risikoprüfung oder auf die gesamte Organisation zielt. |
+| 9 | 4 | 3 | 4 | „Zielkonflikte", „Priorisierung von KI-Projekten" | Gut verständlich, aber offen bleibt, ob Konflikte zwischen IT und Fachbereich überhaupt als solche benannt werden. |
+| 10 | 4 | 3 | 4 | „Divergierende Prioritäten", „einheitliche Zielausrichtung" | Inhaltlich sehr nah an Item 9, sodass ich mich frage, ob hier etwas anderes gemeint ist. |
+| 11 | 5 | 5 | 5 | – | Die Anweisung ist völlig klar, wirkt aber mitten im Fragebogen wie ein Fremdkörper. |
+| 12 | 3 | 3 | 3 | „systematisch", „neue Potenziale" | „Systematisch" ist unscharf, und ob es einen festen Prozess gibt, weiß ich aus meiner Position nicht sicher. |
+| 13 | 3 | 3 | 3 | „strukturierte Prozesse", „technologische Entwicklungen im KI-Markt", „Relevanz für unser Geschäftsmodell" | Der Satz ist lang, und über Marktbeobachtung auf Konzernebene habe ich als Abteilungsleitung nur begrenzten Einblick. |
+| 14 | 4 | 4 | 3 | „strategische Roadmap", „Budgets und Ressourcen" | Verständlich, aber ob es auf Vorstandsebene eine KI-Roadmap gibt, kann ich nur eingeschränkt beurteilen. |
+| 15 | 3 | 2 | 3 | „zügig", „notwendige organisatorische Rahmenbedingungen", „chancenreiche KI-Projekte" | Drei unbestimmte Begriffe in einem Satz, und „Führungsebene" lässt offen, ob meine eigene Ebene mitgemeint ist. |
+| 16 | 3 | 2 | 2 | „Datenarchitekturen", „flexibel anpassen", „neue KI-Systeme" | Das ist eine IT-Detailfrage, die ich ohne technisches Wissen nicht verlässlich beantworten kann. |
+| 17 | 2 | 2 | 2 | „reallokiert", „digitale Kernarchitektur auf KI einzustellen", „kontinuierlich" | „Reallokiert" ist Fachjargon, der Satz ist überladen, und mir fehlt der Einblick in Ressourcenverschiebungen auf Gesamtebene. |
+
+**Gesamteindruck:** Mit 17 Aussagen ist der Fragebogen angemessen kurz, die Anweisungen zur Skala sind klar und die Pausenhinweise wirken eher wie Unterbrechungen als wie eine echte Hilfe. Gegen Ende werden die Formulierungen deutlich sperriger und theorielastiger („reallokiert", „Datenarchitekturen"), wodurch die Beantwortbarkeit aus Sicht einer Abteilungsleitung ohne IT-Hintergrund sinkt. Die Aufmerksamkeitsanweisung in Item 11 ist verständlich, wirkt aber zwischen den inhaltlichen Aussagen etwas befremdlich.
