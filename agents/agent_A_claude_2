@@ -1,0 +1,32 @@
+| Item-ID | Perspektive | Doppelfrage | Suggestivität | Mehrdeutigkeit | Negation | Kausalverknüpfung | Absolutierung | Urteil | Begründung (1 Satz) |
+|---|---|---|---|---|---|---|---|---|---|
+| Z-01 | Organisation | 1 | 0 | 1 | 0 | 0 | 0 | überarbeiten | „Budgets und Ressourcen" bündelt zwei Sachverhalte, und „klare strategische Roadmap" ist ohne Definition unterschiedlich auslegbar. |
+| Z-02 | Organisation | 0 | 0 | 1 | 0 | 0 | 0 | überarbeiten | „Zielkonflikte bezüglich der Priorisierung" ist abstrakt und unklar, ab wann ein Konflikt vorliegt. |
+| Z-03 | Organisation | 0 | 0 | 0 | 0 | 0 | 1 | überarbeiten | „verharren … häufig im Stadium von Testläufen … anstatt flächendeckend skaliert" enthält mit „flächendeckend" eine Extremformulierung; zudem ist „häufig" unscharf, aber noch beantwortbar. |
+| Z-04 | Ich | 0 | 0 | 1 | 0 | 0 | 0 | überarbeiten | „Ich bin davon überzeugt, dass ich … Entscheidungsfreiheit besitze" ist doppelt gerahmt, und „in meinem Bereich" lässt den Entscheidungsumfang offen. |
+| Z-05 | Ich | 1 | 0 | 1 | 0 | 0 | 0 | überarbeiten | „adäquate Schulungsangebote" vermischt Vorhandensein und Angemessenheit, zudem ist „stetig weiterzuentwickeln" kaum von „adäquat" zu trennen. |
+| Z-06 | Organisation | 1 | 0 | 1 | 0 | 1 | 0 | überarbeiten | „kurzfristig überschaubare Reaktionen gegenüber weitreichenden … Projekten" ist ein Vergleich zweier Optionen, außerdem liefert „um Betriebsrisiken zu vermeiden" eine Begründung. |
+| Z-07 | Ich | 0 | 0 | 1 | 0 | 0 | 1 | überarbeiten | „liegt vollkommen in meiner eigenen Handlungsfreiheit" ist absolut formuliert, und „Kundenanfragen" lässt offen, ob das für alle Anfragetypen gilt. |
+| Z-08 | Organisation | 0 | 1 | 1 | 0 | 0 | 0 | überarbeiten | „Starre Schnittstellen" ist wertend, und „nahtlose Nutzung" ist unscharf. |
+| Z-09 | Organisation | 1 | 0 | 1 | 0 | 0 | 0 | überarbeiten | „eigene Ideen zur Verbesserung von Arbeitsabläufen durch KI" ist doppeldeutig, da „durch KI" sowohl die Ideen als auch die Verbesserung betreffen kann; „strukturierte Wege" ist unklar. |
+| Z-10 | Organisation | 0 | 0 | 1 | 0 | 1 | 0 | überarbeiten | „Aus Sorge vor regulatorischen Unsicherheiten … zögert" unterstellt eine Ursache, und „zentrale Entscheidungsprozesse" ist ohne Erläuterung unklar. |
+| Z-11 | Organisation | 1 | 0 | 1 | 0 | 0 | 0 | überarbeiten | „strukturierte Prozesse … frühzeitig … analysieren" enthält Struktur und Frühzeitigkeit als getrennte Aspekte, und „Relevanz für unser Geschäftsmodell" ist unscharf. |
+| Z-12 | Ich | 0 | 1 | 1 | 0 | 0 | 0 | überarbeiten | „als wichtig für unsere Marktpositionierung" legt eine Wertung nahe, und „Marktpositionierung" ist ohne Fachwissen unklar. |
+| Z-13 | Organisation | 0 | 0 | 1 | 0 | 1 | 0 | überarbeiten | „Divergierende Prioritäten … erschweren eine einheitliche Zielausrichtung" enthält eine Ursache-Wirkungs-Annahme, und „divergierende Prioritäten" ist ein schwieriger Begriff. |
+| Z-14 | Ich | 0 | 0 | 1 | 0 | 0 | 0 | überarbeiten | „strategischen Einsatz" ist unklar, und „vorteilhaft für unseren Unternehmenserfolg" ist eine vage Bezugsgröße. |
+| Z-15 | Organisation | 1 | 0 | 0 | 0 | 1 | 0 | kritisch | „Befürchtung, dass KI-Einsatz zu automatisierten Fehlern führt, für die das Team verantwortlich gemacht wird" verkettet Befürchtung, Fehlerursache und Verantwortungszuschreibung zu einer Kausalkette, die nicht als Ganzes beantwortbar ist. |
+| Z-16 | Organisation | 1 | 0 | 1 | 0 | 0 | 0 | überarbeiten | „IT-Infrastruktur und Datenarchitekturen" benennt zwei Gegenstände, und „flexibel anpassen" ist unscharf. |
+| Z-17 | Organisation | 1 | 0 | 1 | 0 | 1 | 1 | kritisch | „personelle und technologische Ressourcen" bündelt zwei Bereiche, „kontinuierlich" ist absolut, und „um … auf KI einzustellen" ist eine Zweckangabe; „digitale Kernarchitektur" ist zudem unklar. |
+| Z-18 | Organisation | 0 | 0 | 1 | 0 | 1 | 0 | überarbeiten | „Aus Sorge vor Fehlentscheidungen greifen wir … zurück" unterstellt ein Motiv, und „in Zweifelsfällen" ist unscharf. |
+| Z-19 | Ich | 0 | 1 | 1 | 0 | 0 | 0 | überarbeiten | „deren Meinung ich schätze" lenkt auf soziale Erwünschtheit, und „befürworten" ist nicht von tatsächlicher Nutzung abgegrenzt. |
+| Z-20 | Organisation | 1 | 1 | 1 | 0 | 0 | 0 | überarbeiten | „zügig … notwendige … chancenreiche" enthält mehrere wertende Attribute, und „organisatorische Rahmenbedingungen" ist unklar. |
+| Z-21 | Ich | 0 | 0 | 1 | 0 | 0 | 0 | überarbeiten | „Unterstützung … als zufriedenstellend" ist als Bewertungsmaßstab unklar, und „Routineaufgaben" ist nicht abgegrenzt. |
+| Z-22 | Organisation | 0 | 0 | 1 | 0 | 0 | 0 | überarbeiten | „kollidiert mit etablierten organisatorischen Arbeitsabläufen" ist abstrakt und lässt offen, was als Kollision gilt. |
+| Z-23 | Ich | 0 | 1 | 1 | 0 | 0 | 0 | überarbeiten | „wird von mir erwartet, dass ich mich aufgeschlossen … zeige" legt eine normative Erwartung nahe, und es bleibt unklar, ob Erwartung oder eigene Haltung gemessen wird. |
+| Z-24 | Organisation | 0 | 1 | 1 | 0 | 0 | 0 | überarbeiten | „erstbesten, ausreichend funktionierenden Zwischenlösungen" ist abwertend formuliert, und „Digitalisierung in der Risikoprüfung" ist weit gefasst. |
+| Z-25 | Organisation | 0 | 0 | 1 | 0 | 0 | 0 | überarbeiten | „systematisch genutzt" und „Praktische Erfahrungswerte" sind unscharf und nicht beobachtbar. |
+| Z-26 | Ich | 1 | 0 | 1 | 0 | 0 | 0 | überarbeiten | „notwendigen Fähigkeiten … kompetent zu bedienen" vermischt Fähigkeit und Kompetenz, und „Ich bin davon überzeugt" ist zusätzliche Rahmung. |
+| Z-27 | Ich | 0 | 0 | 1 | 0 | 1 | 0 | überarbeiten | „Durch gezielte Qualifizierungsmaßnahmen werde ich … vorbereitet" unterstellt eine Ursache, und „veränderte Aufgabenrollen" ist unscharf. |
+| Z-28 | Ich | 0 | 0 | 1 | 0 | 0 | 0 | überarbeiten | „als vorteilhaft" nennt keine Bezugsgröße (für wen, wofür). |
+| Z-29 | Organisation | 1 | 0 | 1 | 0 | 0 | 0 | überarbeiten | „Risikoprüfung und Schadensbearbeitung" sind zwei Bereiche, die unterschiedlich beantwortet werden könnten, und „systematisch … Potenziale" ist unscharf. |
+| Z-30 | Ich | 0 | 0 | 1 | 0 | 0 | 0 | überarbeiten | „maßgeblich in meiner Steuerungskontrolle" ist ein sperriger Begriff, und „Automatisierung von Prozessabläufen" ist unklar. |
